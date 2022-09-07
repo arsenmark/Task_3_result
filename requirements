@@ -1,0 +1,8 @@
+#### LIBRARIES USED FOR ANALYSING####
+pandas == 1.3.5
+numpy == 1.21.6
+seaborn == 0.11.2
+matplotlib == 3.2.2
+
+#### LIBRARIES USED FOR PREDICTION####
+pandas == 1.3.5
